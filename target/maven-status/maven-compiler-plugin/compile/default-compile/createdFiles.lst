@@ -1,0 +1,5 @@
+com/mathi/microservices/currencyconversionservice/resource/CurrencyConversionController.class
+com/mathi/microservices/currencyconversionservice/util/containerservice/ContainerMetaDataService.class
+com/mathi/microservices/currencyconversionservice/CurrencyConversionServiceApplication.class
+com/mathi/microservices/currencyconversionservice/util/logging/EnvironmentConfigurationLogger.class
+com/mathi/microservices/currencyconversionservice/resource/CurrencyConversionBean.class
